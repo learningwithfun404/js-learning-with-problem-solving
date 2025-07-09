@@ -1,7 +1,7 @@
 // var/let/const variableName = {
 //     key1 : value1,
 //     key2 : value2,
-//     ke3 : value2
+//     key3 : value2
 // }
 
 // object constructor
@@ -26,6 +26,6 @@ let studentList = [
   },
 ];
 
-studentList[1]["contact"]["email"] = "update@gmail.com"
+studentList[1]["contact"]["email"] = "update@gmail.com";
 
-console.log(studentList)
+console.log(studentList);
